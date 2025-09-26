@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<h2>À Propos</h2>
+<div class="about-content">
+<div class="about-text">
+<p><strong>VISTALYS IMMO</strong> est une agence spécialisée dans les villas et domaines d’exception avec vue mer. Nous combinons luxe, discrétion et expertise immobilière sur la Côte d’Azur.</p>
+<p>Notre équipe accompagne une clientèle internationale exigeante dans l’acquisition de biens rares et sécurisés.</p>
+</div>
+<div class="about-image"></div>
+</div>
+</section>
+
+<section id="services" class="services section">
+<h2>Nos Services</h2>
+<div class="services-grid">
+<div class="service-card">
+<div class="service-icon">🏝️</div>
+<h3>Villas Vue Mer</h3>
+<p>Sélection exclusive de propriétés avec vue panoramique sur la Méditerranée.</p>
+</div>
+<div class="service-card">
+<div class="service-icon">🤝</div>
+<h3>Conciergerie & Discrétion</h3>
+<p>Un accompagnement sur-mesure, alliant confidentialité et excellence de service.</p>
+</div>
+<div class="service-card">
+<div class="service-icon">🔒</div>
+<h3>Sécurité Intégrée</h3>
+<p>Propriétés dotées de systèmes de sécurité haut de gamme pour une tranquillité totale.</p>
+</div>
+</div>
+</section>
+
+<section id="projets" class="projects section">
+<h2>Nos Biens</h2>
+<div class="projects-grid">
+<div class="project-card">
+<div class="project-image" style="background-image: url('https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1350&q=80');"></div>
+<div class="project-content">
+<h3>Villa Azur - Saint-Raphaël</h3>
+<p>Villa contemporaine de 300m² avec piscine à débordement et vue imprenable sur la baie.</p>
+</div>
+</div>
+<div class="project-card">
+<div class="project-image" style="background-image: url('https://media.vrbo.com/lodging/34000000/33930000/33929600/33929508/346860b2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill');"></div>
+<div class="project-content">
+<h3>Domaine des Pins - Ramatuelle</h3>
+<p>Propriété de 500m² avec jardin méditerranéen, accès privé plage et sécurité premium.</p>
+</div>
+</div>
+<div class="project-card">
+<div class="project-image" style="background-image: url('https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1350&q=80');"></div>
+<div class="project-content">
+<h3>Résidence Méditerranée</h3>
+<p>Collection de villas exclusives avec services de conciergerie et sécurité haut de gamme.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="contact" class="contact section">
+<h2>Contact</h2>
+<div class="contact-content">
+<div class="contact-info">
+<h3>Votre conseiller dédié</h3>
+<p>📞 +33 4 94 XX XX XX</p>
+<p>✉️ contact@vistalysimmo.fr</p>
+<p>📍 Saint-Raphaël • Ramatuelle • Côte d’Azur</p>
+</div>
+<form class="contact-form">
+<input type="text" placeholder="Votre nom" required>
+<input type="email" placeholder="Votre email" required>
+<textarea rows="5" placeholder="Votre message" required></textarea>
+<button type="submit">Envoyer</button>
+</form>
+</div>
+</section>
+
+<footer class="footer">
+<p>&copy; 2025 <span>VISTALYS IMMO</span>. Villas de Prestige Vue Mer</p>
+</footer>
+</body>
+</html>
